@@ -1,4 +1,4 @@
-## Hi there 👋
+##Este es el readme de Sergio Pina
 
 <!--
 **spmtnz/spmtnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
